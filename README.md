@@ -5,7 +5,7 @@ I'm Meris Stupar software engineer 💻 (graduated) and I work as a Quality Assu
 ### Connect with me:
 [<img align="left" alt="LinkedIN" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/meris-stupar-84610719a/)
 [<img align="left" alt="Behance" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" style="padding-right:10px;" />](https://www.behance.net/merisstupar)
-[<img align="left" alt="Github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />](https://github.com/MerisStupar)
+
 
 
 #
