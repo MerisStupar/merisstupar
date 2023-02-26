@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img align="right" alt="VSCode" width="400" height="300" src="./gif/helloFriend.gif"/>
 I'm Meris Stupar software engineer 💻 (graduated) and I work as a Quality Assurance Engineer. I'm very ambitous and friendly person ready to devote my time for learning new things and making an impact from this side of machine :). Making World better place since 00's.
 
 
