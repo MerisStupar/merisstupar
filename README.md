@@ -34,6 +34,8 @@ I'm Meris Stupar software engineer and I work as a Quality Assurance Engineer. I
 ---
 
 ###  👨🏾‍💻  GitHub Stats
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-merisstupar.vercel.app/api?username=MerisStupar&show_icons=true&hide_border=false&title_color=ff32f&icon_color=fffff&bg_color=09131B&text_color=ffffff&border_color=0s1325" />
+
+![Meris github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MerisStupar&show_icons=true&count_private=true&hide_border=false&title_color=ff32f&icon_color=fffff&bg_color=09131B&text_color=ffffff&border_color=0s1325" )
+
 
 
