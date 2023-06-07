@@ -23,9 +23,13 @@ I'm Meris Stupar software engineer and I work as a Quality Automation Assurance 
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" alt="JS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="Cypress" width="30px" style="padding-right:10px;" src="https://iconape.com/wp-content/files/gj/370774/svg/370774.svg"/>
+<img align="left" alt="Playwright" width="40px" style="padding-right:10px;" src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png"/>
 <img align="left" alt="Jenkins" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/>
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="PuTTY" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg"/>
+
+
+
 
 <br />
 <br />
