@@ -3,11 +3,6 @@
 I'm Meris Stupar software engineer and I work as a Quality Automation Assurance Engineer. I'm very ambitous and friendly person ready to devote my time for learning new things and making an impact from this side of machine :). Making World better place since 00's.
 
 
-### 🔗 Connect with me:
-[<img align="left" alt="LinkedIN" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/meris-stupar-84610719a/)
-[<img align="left" alt="Behance" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" style="padding-right:10px;" />](https://www.behance.net/merisstupar)
-
-####
 
 
 <br />
